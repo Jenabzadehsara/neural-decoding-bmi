@@ -1,0 +1,9 @@
+# Data files (not redistributed)
+*.mat
+
+# MATLAB temp / build artifacts
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
